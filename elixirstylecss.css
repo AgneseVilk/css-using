@@ -1,0 +1,37 @@
+h1, h2, h3 {
+    color:grey;
+    margin:0;
+}
+h1 {
+    color:grey;
+}
+.greentea {
+    color:green;
+}
+.bluedrink {
+    color: blue;
+}
+.purpletea {
+    color:blueviolet
+}
+.cranbery {
+    color: brown;
+}
+#berry{
+    color:pink; 
+}
+.header {
+    background-color:goldenrod;
+}
+.content {
+    background-color: burlywood;
+}
+.footer {
+    background-color: lemonchiffon;
+}
+.textbg {
+    background-color: cadetblue;
+}
+p img {
+    width: 50px;
+}
